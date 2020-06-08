@@ -7,7 +7,7 @@ class Car < Vehicle
   end
   
   def go
-    "The car goes vroom vroom"
+    'VRRROOOOOOOOOOOOOOOOOOOOOOOM!!!!!'
   end
   
 end
