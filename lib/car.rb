@@ -11,4 +11,3 @@ class Car < Vehicle
   end
   
 end
-binding.pry
