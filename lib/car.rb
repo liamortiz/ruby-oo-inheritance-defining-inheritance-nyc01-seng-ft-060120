@@ -6,5 +6,9 @@ class Car < Vehicle
     super(wheel_size, wheel_number)
   end
   
+  def go
+    "The car goes vroom vroom"
+  end
+  
 end
 binding.pry
